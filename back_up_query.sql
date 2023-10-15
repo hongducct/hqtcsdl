@@ -1,0 +1,1 @@
+﻿BACKUP DATABASE PhanQuyen TO DISK = 'D:\Hong Duc\TLU\kì 1 năm 3\HQT_CSDL\PhanQuyen.bak' WITH FORMAT;
